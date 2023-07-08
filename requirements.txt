@@ -1,7 +1,5 @@
 streamlit
-pandas
 numpy
 cohere
 streamlit_extras.switch_page_button
 streamlit_autorefresh
-datetime
